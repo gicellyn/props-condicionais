@@ -1,0 +1,16 @@
+.corpo {
+    background-color: rgba(77, 204, 236, 0.226);
+    padding: 8px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 8px;
+}
+
+.produtoU {
+    text-decoration: line-through;
+    color: rgb(138, 138, 138);
+}
+
+#desconto{
+    color:green;
+}
